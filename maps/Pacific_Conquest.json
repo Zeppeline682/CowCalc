@@ -14,7 +14,7 @@
     "rows": [
         [
             "5",
-            "Brits-Columbia",
+            "British Columbia",
             "Commintern",
             "37595",
             "8090",
@@ -34,7 +34,7 @@
         ],
         [
             "7",
-            "Californië",
+            "California",
             "Ally",
             "35283",
             "6702",
@@ -124,7 +124,7 @@
         ],
         [
             "25",
-            "Noord-Mexico",
+            "North Mexico",
             "Axis",
             "37595",
             "8090",
@@ -134,7 +134,7 @@
         ],
         [
             "26",
-            "Zuid-Mexico",
+            "South Mexico",
             "Axis",
             "35283",
             "6702",
@@ -184,7 +184,7 @@
         ],
         [
             "31",
-            "Noord-India",
+            "North India",
             "Commintern",
             "36439",
             "7396",
@@ -194,7 +194,7 @@
         ],
         [
             "32",
-            "Brits Odisha",
+            "British Odisha",
             "Ally",
             "37595",
             "8090",
@@ -214,7 +214,7 @@
         ],
         [
             "38",
-            "Mongolië",
+            "Mongolia",
             "Commintern",
             "37595",
             "8090",
@@ -264,7 +264,7 @@
         ],
         [
             "45",
-            "Nationalistisch China",
+            "Nationalist China",
             "Pan-Asian",
             "35283",
             "6702",
@@ -274,7 +274,7 @@
         ],
         [
             "46",
-            "Communistisch China",
+            "Communist China",
             "Commintern",
             "37595",
             "8090",
@@ -284,7 +284,7 @@
         ],
         [
             "47",
-            "Zuid-China",
+            "South-China",
             "Pan-Asian",
             "35861",
             "7049",
@@ -294,7 +294,7 @@
         ],
         [
             "49",
-            "South Manchukuoiaans",
+            "South Manchukuo",
             "Pan-Asian",
             "34705",
             "6355",
@@ -354,7 +354,7 @@
         ],
         [
             "59",
-            "Filippijnen",
+            "Philippines",
             "Axis",
             "37595",
             "8090",
@@ -364,7 +364,7 @@
         ],
         [
             "60",
-            "Papua Nieuw Guinea",
+            "Papua New Guinea",
             "Axis",
             "37595",
             "8090",
@@ -394,7 +394,7 @@
         ],
         [
             "64",
-            "Centraal China",
+            "Central China",
             "Pan-Asian",
             "35861",
             "7049",
@@ -404,7 +404,7 @@
         ],
         [
             "65",
-            "North Manchukuoiaans",
+            "North Manchukuo",
             "Pan-Asian",
             "34705",
             "6355",
@@ -414,7 +414,7 @@
         ],
         [
             "67",
-            "Irkutsk Siberië",
+            "Irkutsk Siberia",
             "Commintern",
             "35283",
             "6702",
@@ -424,7 +424,7 @@
         ],
         [
             "69",
-            "Oost-Yakutia",
+            "East-Yakutia",
             "Commintern",
             "37595",
             "8090",
@@ -454,7 +454,7 @@
         ],
         [
             "73",
-            "Tomsk Siberië",
+            "Tomsk Siberia",
             "Axis",
             "35283",
             "6702",
@@ -464,7 +464,7 @@
         ],
         [
             "74",
-            "Nieuw-Zeeland",
+            "New-Zealand",
             "Axis",
             "37595",
             "8090",
@@ -474,7 +474,7 @@
         ],
         [
             "75",
-            "Noordwest-Australië",
+            "NorthWest Australia",
             "Commintern",
             "34705",
             "6355",
@@ -494,7 +494,7 @@
         ],
         [
             "78",
-            "Nieuw Zuid-Wales",
+            "New South-Wales",
             "Ally",
             "35861",
             "7049",
@@ -504,7 +504,7 @@
         ],
         [
             "80",
-            "Zuidwestelijk Australië",
+            "SouthWest Australia",
             "Ally",
             "34705",
             "6355",
