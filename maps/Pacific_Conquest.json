@@ -204,11 +204,11 @@
         ],
         [
             "33",
-            "Zuid-India",
+            "South India",
             "Ally",
             "37595",
             "8090",
-            "8099",
+                "South India",
             "10413",
             "10413"
         ],
@@ -408,7 +408,7 @@
             "Pan-Asian",
             "34705",
             "6355",
-            "8099",
+                "South India",
             "10413",
             "10413"
         ],
@@ -716,7 +716,7 @@
         ],
         [
             "33",
-            "Zuid-India",
+            "South India",
             "Ally",
             "37595",
             "8090",
@@ -806,7 +806,7 @@
         ],
         [
             "49",
-            "South Manchukuoiaans",
+            "South Manchukuo",
             "Pan-Asian",
             "34705",
             "6355",
@@ -1228,7 +1228,7 @@
         ],
         [
             "33",
-            "Zuid-India",
+            "South India",
             "Ally",
             "48750",
             "10500",
@@ -1318,7 +1318,7 @@
         ],
         [
             "49",
-            "South Manchukuoiaans",
+            "South Manchukuo",
             "Pan-Asian",
             "45000",
             "8250",
